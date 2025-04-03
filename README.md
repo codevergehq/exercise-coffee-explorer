@@ -44,6 +44,8 @@ We would like you to come up with something like this in the end:
 
 > [!NOTE]
 > Focus on functionality first. Styling can come later once the core features are working.
+ 
+You can find our finished demo live at [Coffee Explorer](https://coffee-explorer.codewith.codeverge.de/) to get a sense of what we're aiming for and get inspired for your own implementation.
 
 Before you begin with the tasks, create a new `routes` folder in your project. This is where your route components will live.
 
